@@ -36,7 +36,7 @@ class network {
   }
 
   public getMovieDetails(id: number) {
-    const path = `/moviessss/${id}`;
+    const path = `/movie/${id}`;
     return this.promiseCreater(path);
   }
 }

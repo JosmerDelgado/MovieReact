@@ -1,5 +1,5 @@
 import * as React from "react";
-import { TimeWindow, MediaType, TrendingResult } from "../utils/network";
+import { TimeWindow, MediaType } from "../utils/network";
 
 interface IProps {
   mediaType: MediaType;

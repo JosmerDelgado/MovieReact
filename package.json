@@ -10,12 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "@reach/router": "^1.2.1",
     "@types/node": "^11.13.0",
     "parcel": "^1.12.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-image-async": "^1.0.9"
+    "react-image-async": "^1.0.9",
+    "react-shimmer": "^2.0.1",
+    "unstated": "^2.1.1"
   },
   "devDependencies": {
     "@types/reach__router": "^1.2.3",
